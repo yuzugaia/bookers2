@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# DMM WEBCAMPコンテンツ 【アプリケーションを完成させよう2】
+
+DMM WEBCAMPの学習コンテンツ｢アプリケーションを完成させよう2｣の研修課題です。
+
+##使い方
+ブラウザで使用可能です。使用の際はユーザー登録をお願いします。
